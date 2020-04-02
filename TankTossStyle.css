@@ -1,0 +1,55 @@
+@charset "utf-8";
+#title {
+    font-family: stencil-std;
+    color: #306C16;
+    text-align: center;
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 0px;
+}
+#description {
+    font-family: stardos-stencil;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: x-large;
+    text-decoration: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #000000;
+}
+#navbar {
+    background-color: #C1FFB4;
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+    width: auto;
+    height: 35px;
+    font-size: x-large;
+    vertical-align: central;
+    word-spacing: 100px;
+}
+#linkdownload {
+    text-align: center;
+    color: #000000;
+    font-size: x-large;
+    font-family: stencil-std;
+    font-style: normal;
+    font-weight: 400;
+}
+#aboutus {
+    margin: 100;
+    padding: 25;
+    text-align: left;
+    font-family: stardos-stencil;
+    font-style: normal;
+    font-weight: 400;
+}
+#video1 {
+    width: 1000px;
+    text-align: center;
+    align-content: center;
+}
