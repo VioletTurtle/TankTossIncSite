@@ -13,16 +13,21 @@
     font-style: normal;
     font-weight: 400;
     text-align: center;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
     font-size: x-large;
     text-decoration: none;
     margin-top: auto;
     margin-bottom: auto;
-    color: #000000;
+    color: #FFFFFF;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+    background-color: rgba(127,194,111,0.44);
 }
 #navbar {
-    background-color: #C1FFB4;
+    background-color: rgba(193,255,180,0.70);
     padding: 15px;
     margin: 5px;
     text-align: center;
@@ -47,6 +52,8 @@
     font-family: stardos-stencil;
     font-style: normal;
     font-weight: 400;
+    color: rgba(255,255,255,1.00);
+    background-color: rgba(127,194,111,0.44);
 }
 #video1 {
     width: 1000px;
